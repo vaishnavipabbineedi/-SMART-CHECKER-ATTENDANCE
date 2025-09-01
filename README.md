@@ -45,6 +45,4 @@ python app.py
 
 ### 1️⃣ Clone the repository  
 # bash
-git clone https://github.com/your-username/smart-checker-attendance.git
-cd smart-checker-attendance
 https://github.com/vaishnavipabbineedi/-SMART-CHECKER-ATTENDANCE
