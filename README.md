@@ -44,5 +44,5 @@ python app.py
 
 
 ### 1️⃣ Clone the repository  
-# bash
+- bash
 https://github.com/vaishnavipabbineedi/-SMART-CHECKER-ATTENDANCE
